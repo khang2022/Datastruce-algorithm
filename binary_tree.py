@@ -22,4 +22,6 @@ class Node:
 root = Node(1)
 root.insert(2)
 root.insert(3)
+root.insert(4)
+root.insert(5)
 
